@@ -11,6 +11,11 @@
 
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+    <style>
+
+    </style>
 
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700" rel="stylesheet">
 
@@ -38,7 +43,7 @@
                     <li class="nav-item"><a class="nav-link" href="#section-contact">Contact</a></li>
                 </ul>
             </div>
-        </div>
+            </d`iv>
     </nav>
 
 
@@ -55,7 +60,436 @@
                 </div>
             </div>
         </div>
-    </section> <!-- section -->
+    </section>
+    <!-- section -->
+
+    <section class="site-section" id="section-portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="section-heading text-center col-md-12">
+                    <h2>Technology <strong>Stacks</strong></h2>
+                </div>
+            </div>
+            <div class="filters">
+                <ul>
+                    <li data-filter="*">All</li>
+                    <li data-filter=".frontend">Frontend</li>
+                    <li data-filter=".database">Database</li>
+                    <li data-filter=".backend">Backend</li>
+                    <li data-filter=".scripting">Scripting</li>
+                    <li data-filter=".others">Others</li>
+                </ul>
+            </div>
+
+            <div class="filters-content">
+                <div class="row grid">
+                    <!-- html -->
+                    <div class="single-portfolio col-sm-4 all frontend">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- css -->
+                    <div class="single-portfolio col-sm-4 all frontend">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- js -->
+                    <div class="single-portfolio col-sm-4 all backend frontend">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <!-- <i class="image img-fluid" > </i> -->
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- php -->
+                    <div class="single-portfolio col-sm-4 all backend">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <!-- <i class="image img-fluid" > </i> -->
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- laravel -->
+                    <div class="single-portfolio col-sm-4 all backend">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <!-- <i class="image img-fluid" > </i> -->
+
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- tailwind css -->
+                    <div class="single-portfolio col-sm-4 all frontend ">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- nodejs -->
+                    <div class="single-portfolio col-sm-4 all backend">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- python -->
+                    <div class="single-portfolio col-sm-4 all backend scripting">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- jquery -->
+                    <div class="single-portfolio col-sm-4 all frontend">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- c# -->
+                    <div class="single-portfolio col-sm-4 all others">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- reactjs -->
+                    <div class="single-portfolio col-sm-4 all frontend">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- bootstrap -->
+                    <div class="single-portfolio col-sm-4 all frontend">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- mysql -->
+                    <div class="single-portfolio col-sm-4 all database">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- mongodb -->
+                    <div class="single-portfolio col-sm-4 all database">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- git -->
+                    <div class="single-portfolio col-sm-4 all others">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- github -->
+                    <div class="single-portfolio col-sm-4 all others">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- gitlab -->
+                    <div class="single-portfolio col-sm-4 all others">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- linux -->
+                    <div class="single-portfolio col-sm-4 all others">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- apache -->
+                    <div class="single-portfolio col-sm-4 all others">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- nginx -->
+                    <div class="single-portfolio col-sm-4 all others">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- docker -->
+                    <div class="single-portfolio col-sm-4 all others">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- arduino -->
+                    <div class="single-portfolio col-sm-4 all others">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- vscode -->
+                    <div class="single-portfolio col-sm-4 all others">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- raspberry pi -->
+                    <div class="single-portfolio col-sm-4 all others">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" />
+                            </div>
+                        </div>
+                        <div class="p-inner">
+                            <h4>PHP</h4>
+                            <div class="cat">backend</div>
+                        </div>
+                    </div>
+                    <!-- <div class="single-portfolio col-sm-4 all mockup">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img class="image img-fluid" src="images/p2.jpg" alt="">
+                            </div>
+                            <a href="images/p2.jpg" class="img-pop-up">
+                                <div class="middle">
+                                    <div class="text align-self-center d-flex"><img src="images/preview.png" alt=""></div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="p-inner">
+                            <h4>Product Box Package Mockup</h4>
+                            <div class="cat">Mockup</div>
+                        </div>
+                    </div>
+                    <div class="single-portfolio col-sm-4 all packaging">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img class="image img-fluid" src="images/p3.jpg" alt="">
+                            </div>
+                            <a href="images/p3.jpg" class="img-pop-up">
+                                <div class="middle">
+                                    <div class="text align-self-center d-flex"><img src="images/preview.png" alt=""></div>
+                                </div>
+                            </a>
+
+                        </div>
+                        <div class="p-inner">
+                            <h4>Creative Package Design</h4>
+                            <div class="cat">Packaging</div>
+                        </div>
+                    </div>
+                    <div class="single-portfolio col-sm-4 all packaging">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img class="image img-fluid" src="images/p4.jpg" alt="">
+                            </div>
+                            <a href="images/p4.jpg" class="img-pop-up">
+                                <div class="middle">
+                                    <div class="text align-self-center d-flex"><img src="images/preview.png" alt=""></div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="p-inner">
+                            <h4>Packaging Brand</h4>
+                            <div class="cat">Packaging</div>
+                        </div>
+                    </div>
+                    <div class="single-portfolio col-sm-4 all typography">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img class="image img-fluid" src="images/p5.jpg" alt="">
+                            </div>
+                            <a href="images/p5.jpg" class="img-pop-up">
+                                <div class="middle">
+                                    <div class="text align-self-center d-flex"><img src="images/preview.png" alt=""></div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="p-inner">
+                            <h4>Isometric 3D Extrusion</h4>
+                            <div class="cat">Typography</div>
+                        </div>
+                    </div>
+                    <div class="single-portfolio col-sm-4 all photography">
+                        <div class="relative">
+                            <div class="thumb">
+                                <div class="overlay overlay-bg"></div>
+                                <img class="image img-fluid" src="images/p6.jpg" alt="">
+                            </div>
+                            <a href="images/p6.jpg" class="img-pop-up">
+                                <div class="middle">
+                                    <div class="text align-self-center d-flex"><img src="images/preview.png" alt=""></div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="p-inner">
+                            <h4>White Space Photography</h4>
+                            <div class="cat">photography</div>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- .section -->
 
 
     <section class="site-section" id="section-portfolio">
