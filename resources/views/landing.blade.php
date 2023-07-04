@@ -92,8 +92,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>HTML</h4>
+                            <div class="cat">frontend</div>
                         </div>
                     </div>
                     <!-- css -->
@@ -105,8 +105,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>CSS</h4>
+                            <div class="cat">frontend</div>
                         </div>
                     </div>
                     <!-- js -->
@@ -119,8 +119,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>JavaScript</h4>
+                            <div class="cat">frontend, backend</div>
                         </div>
                     </div>
                     <!-- php -->
@@ -148,7 +148,7 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
+                            <h4>Laravel</h4>
                             <div class="cat">backend</div>
                         </div>
                     </div>
@@ -161,8 +161,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>Tailwind CSS</h4>
+                            <div class="cat">frontend</div>
                         </div>
                     </div>
                     <!-- nodejs -->
@@ -174,7 +174,7 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
+                            <h4>NodeJS</h4>
                             <div class="cat">backend</div>
                         </div>
                     </div>
@@ -200,8 +200,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>jQuery</h4>
+                            <div class="cat">frontend</div>
                         </div>
                     </div>
                     <!-- c# -->
@@ -213,8 +213,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>C#</h4>
+                            <div class="cat">backend, desktop app</div>
                         </div>
                     </div>
                     <!-- reactjs -->
@@ -226,8 +226,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>ReactJS</h4>
+                            <div class="cat">frontend</div>
                         </div>
                     </div>
                     <!-- bootstrap -->
@@ -239,8 +239,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>Bootstrap</h4>
+                            <div class="cat">frontend</div>
                         </div>
                     </div>
                     <!-- mysql -->
@@ -252,8 +252,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>MySQL</h4>
+                            <div class="cat">database</div>
                         </div>
                     </div>
                     <!-- mongodb -->
@@ -265,8 +265,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>MonogoDB</h4>
+                            <div class="cat">database</div>
                         </div>
                     </div>
                     <!-- git -->
@@ -278,8 +278,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>GIT</h4>
+                            <div class="cat">etc</div>
                         </div>
                     </div>
                     <!-- github -->
@@ -291,8 +291,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>GitHub</h4>
+                            <div class="cat">etc</div>
                         </div>
                     </div>
                     <!-- gitlab -->
@@ -304,8 +304,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>GitLab</h4>
+                            <div class="cat">etc</div>
                         </div>
                     </div>
                     <!-- linux -->
@@ -317,8 +317,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>Linux</h4>
+                            <div class="cat">servers</div>
                         </div>
                     </div>
                     <!-- apache -->
@@ -330,8 +330,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>Apache</h4>
+                            <div class="cat">service</div>
                         </div>
                     </div>
                     <!-- nginx -->
@@ -343,8 +343,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>nginx</h4>
+                            <div class="cat">service</div>
                         </div>
                     </div>
                     <!-- docker -->
@@ -356,8 +356,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>Docker</h4>
+                            <div class="cat">service, servers</div>
                         </div>
                     </div>
                     <!-- arduino -->
@@ -369,8 +369,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>Arduino</h4>
+                            <div class="cat">IOT, robotics</div>
                         </div>
                     </div>
                     <!-- vscode -->
@@ -382,8 +382,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>VsCode</h4>
+                            <div class="cat">IDE</div>
                         </div>
                     </div>
                     <!-- raspberry pi -->
@@ -395,8 +395,8 @@
                             </div>
                         </div>
                         <div class="p-inner">
-                            <h4>PHP</h4>
-                            <div class="cat">backend</div>
+                            <h4>RaspberryPi</h4>
+                            <div class="cat">servers</div>
                         </div>
                     </div>
                     <!-- <div class="single-portfolio col-sm-4 all mockup">
