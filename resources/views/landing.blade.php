@@ -72,7 +72,7 @@
             </div>
             <div class="filters">
                 <ul>
-                    <li data-filter="*">All</li>
+                    <li data-filter="*" class="active">All</li>
                     <li data-filter=".frontend">Frontend</li>
                     <li data-filter=".database">Database</li>
                     <li data-filter=".backend">Backend</li>
